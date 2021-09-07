@@ -130,6 +130,27 @@ console.log( accumulator() );
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/stats/incr/midrange`][@stdlib/stats/incr/midrange]: compute a mid-range incrementally.
+-   [`@stdlib/stats/incr/mmean`][@stdlib/stats/incr/mmean]: compute a moving arithmetic mean incrementally.
+-   [`@stdlib/stats/incr/stdev`][@stdlib/stats/incr/stdev]: compute a corrected sample standard deviation incrementally.
+-   [`@stdlib/stats/incr/sum`][@stdlib/stats/incr/sum]: compute a sum incrementally.
+-   [`@stdlib/stats/incr/summary`][@stdlib/stats/incr/summary]: compute a statistical summary incrementally.
+-   [`@stdlib/stats/incr/variance`][@stdlib/stats/incr/variance]: compute an unbiased sample variance incrementally.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -186,6 +207,22 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/stats-incr-mean/main/LICENSE
 
 [arithmetic-mean]: https://en.wikipedia.org/wiki/Arithmetic_mean
+
+<!-- <related-links> -->
+
+[@stdlib/stats/incr/midrange]: https://github.com/stdlib-js/stats-incr-midrange
+
+[@stdlib/stats/incr/mmean]: https://github.com/stdlib-js/stats-incr-mmean
+
+[@stdlib/stats/incr/stdev]: https://github.com/stdlib-js/stats-incr-stdev
+
+[@stdlib/stats/incr/sum]: https://github.com/stdlib-js/stats-incr-sum
+
+[@stdlib/stats/incr/summary]: https://github.com/stdlib-js/stats-incr-summary
+
+[@stdlib/stats/incr/variance]: https://github.com/stdlib-js/stats-incr-variance
+
+<!-- </related-links> -->
 
 </section>
 
