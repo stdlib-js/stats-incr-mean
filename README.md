@@ -20,7 +20,7 @@ limitations under the License.
 
 # incrmean
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Compute an [arithmetic mean][arithmetic-mean] incrementally.
 
@@ -138,12 +138,12 @@ console.log( accumulator() );
 
 ## See Also
 
--   [`@stdlib/stats/incr/midrange`][@stdlib/stats/incr/midrange]: compute a mid-range incrementally.
--   [`@stdlib/stats/incr/mmean`][@stdlib/stats/incr/mmean]: compute a moving arithmetic mean incrementally.
--   [`@stdlib/stats/incr/stdev`][@stdlib/stats/incr/stdev]: compute a corrected sample standard deviation incrementally.
--   [`@stdlib/stats/incr/sum`][@stdlib/stats/incr/sum]: compute a sum incrementally.
--   [`@stdlib/stats/incr/summary`][@stdlib/stats/incr/summary]: compute a statistical summary incrementally.
--   [`@stdlib/stats/incr/variance`][@stdlib/stats/incr/variance]: compute an unbiased sample variance incrementally.
+-   <span class="package-name">[`@stdlib/stats/incr/midrange`][@stdlib/stats/incr/midrange]</span><span class="delimiter">: </span><span class="description">compute a mid-range incrementally.</span>
+-   <span class="package-name">[`@stdlib/stats/incr/mmean`][@stdlib/stats/incr/mmean]</span><span class="delimiter">: </span><span class="description">compute a moving arithmetic mean incrementally.</span>
+-   <span class="package-name">[`@stdlib/stats/incr/stdev`][@stdlib/stats/incr/stdev]</span><span class="delimiter">: </span><span class="description">compute a corrected sample standard deviation incrementally.</span>
+-   <span class="package-name">[`@stdlib/stats/incr/sum`][@stdlib/stats/incr/sum]</span><span class="delimiter">: </span><span class="description">compute a sum incrementally.</span>
+-   <span class="package-name">[`@stdlib/stats/incr/summary`][@stdlib/stats/incr/summary]</span><span class="delimiter">: </span><span class="description">compute a statistical summary incrementally.</span>
+-   <span class="package-name">[`@stdlib/stats/incr/variance`][@stdlib/stats/incr/variance]</span><span class="delimiter">: </span><span class="description">compute an unbiased sample variance incrementally.</span>
 
 </section>
 
@@ -194,8 +194,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/stats-incr-mean/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/stats-incr-mean?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/stats-incr-mean.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/stats-incr-mean/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
