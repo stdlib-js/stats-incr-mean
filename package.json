@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-incr-mean",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Compute an arithmetic mean incrementally.",
   "license": "Apache-2.0",
   "author": {
